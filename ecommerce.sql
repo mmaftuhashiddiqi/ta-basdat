@@ -157,9 +157,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `user_fullname`, `user_username`, `user_phone`, `user_address`, `user_password`) VALUES
-(1, 'User A', 'usera', 'Jl. Colombo Yog', '088888888888', 'usera123'),
-(2, 'User B', 'userb', 'Jl. Colombo Yog', '087777777777', 'userb123'),
-(3, 'User C', 'userc', 'Jl. Colombo Yog', '086666666666', 'userc123');
+(1, 'User A', 'usera', '088888888888', 'Jl. Colombo Yogyakarta No.1', 'usera123'),
+(2, 'User B', 'userb', '087777777777', 'Jl. Colombo Yogyakarta No.2', 'userb123'),
+(3, 'User C', 'userc', '086666666666', 'Jl. Colombo Yogyakarta No.3', 'userc123');
 
 -- --------------------------------------------------------
 
